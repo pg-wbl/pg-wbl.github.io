@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>码字拾光</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-04-21T17:35:08.617Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Blake</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git的使用</title>
+    <link href="http://example.com/2024/04/22/git-de-shi-yong/"/>
+    <id>http://example.com/2024/04/22/git-de-shi-yong/</id>
+    <published>2024-04-21T17:34:40.000Z</published>
+    <updated>2024-04-21T17:35:08.617Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[object Object]</title>
+    <link href="http://example.com/2024/04/22/templates/template/"/>
+    <id>http://example.com/2024/04/22/templates/template/</id>
+    <published>2024-04-21T16:49:10.543Z</published>
+    <updated>2024-04-21T17:25:47.258Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
