@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "3387f770b9f1604a",
+    "id": "89e5ae32fa0c8f79",
     "type": "split",
     "children": [
       {
-        "id": "5cf790b02b0ba416",
+        "id": "9a4e6e13b111348d",
         "type": "tabs",
         "children": [
           {
-            "id": "04ca39fc018d4791",
+            "id": "8162d638f9bc344f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "使用Git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8572e3fb5470674d",
+    "id": "f11792c3f6450b13",
     "type": "split",
     "children": [
       {
-        "id": "01d685c950956738",
+        "id": "f750ad894d19b403",
         "type": "tabs",
         "children": [
           {
-            "id": "d9ea537972c564f0",
+            "id": "23ffe4cfa2b4a32d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +39,12 @@
             }
           },
           {
-            "id": "3fb3aec9ceb05d88",
+            "id": "c32725e765944d43",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Markdown",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "a42efd48c0297472",
+            "id": "8e37e0aa09634b6d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "d6c5221c896865bb",
+    "id": "5d91d7693bac3bde",
     "type": "split",
     "children": [
       {
-        "id": "0ea9a3f28a060702",
+        "id": "245324727c947219",
         "type": "tabs",
         "children": [
           {
-            "id": "8757ea709d94eb1f",
+            "id": "585d8756aac29256",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "f816d8af39177b70",
+            "id": "dab47de2ee8309af",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e9dffe1b901d6b0c",
+            "id": "be143c4d58b7967a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "59a19e284918386b",
+            "id": "127473d5bc1fb182",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "使用Git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +138,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d9ea537972c564f0",
-  "lastOpenFiles": []
+  "active": "8162d638f9bc344f",
+  "lastOpenFiles": [
+    "Templates/template.md",
+    "使用Git.md",
+    "Templates",
+    "新建文件夹",
+    "template.md",
+    "未命名"
+  ]
 }
