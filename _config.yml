@@ -110,3 +110,18 @@ deploy:
 permalink_pinyin:
   enable: true # 启用插件
   separator: '-' # 分词符，将使用此符号分隔两个汉字间的拼音
+
+#RSS订阅插件
+feed:
+  type: # Feed 类型，可选值：atom、rss2、rdf
+    - atom
+    - rss2
+  path: # 可选多个
+    - atom.xml
+    - rss2.xml
+  limit: 30
+  hub:
+  content:
+  content_limit: 160
+  content_limit_delim: ' '
+  order_by: -date
