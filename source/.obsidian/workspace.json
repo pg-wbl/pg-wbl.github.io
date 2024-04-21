@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "23ffe4cfa2b4a32d",
+  "active": "8162d638f9bc344f",
   "lastOpenFiles": [
+    "_posts/07Git.md",
+    "_posts/使用Git.md",
     "Templates/template.md",
     "使用Git.md",
     "Templates",

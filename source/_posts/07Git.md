@@ -1,23 +1,3 @@
----
-title: 使用Git
-date: 2024-04-22 03:08:18
-author: Blake
-img: 
-top: false
-hide: false
-cover: true
-toc: false
-summary: 
-description: Git学习记录
-categories: 工具
-tags:
-  - Git
----
-1. 初始化本地git仓库：git init
-2. 添加文件：git add 文件名
-3. 提交到暂存区：git commit -m '第一次提交'
-4. 推送到远程仓库：git push -u 远程仓库名 分支名
-	1. 查看远程仓库名：git remote -v
 Working tree （工作目录）：代码的存放位置
 
 Index（暂存区）：代码提交到仓库之前临时的存储空间
@@ -46,14 +26,14 @@ Repository （本地历史仓库）：存放不同版本的代码
 
 # 分支
 
-| 命令                | 作用       |
-| ----------------- | -------- |
-| git branch 分支名    | 创建分支     |
-| git checkout 分支名  | 切换分支     |
-| git branch        | 查看已有分支   |
-| ls                | 查看分支下的文件 |
-| git merge 分支名     | 合并分支     |
-| git branch -d 分支名 | 删除分支     |
+| 命令                 | 作用             |
+| -------------------- | ---------------- |
+| git branch 分支名    | 创建分支         |
+| git checkout 分支名  | 切换分支         |
+| git branch           | 查看已有分支     |
+| ls                   | 查看分支下的文件 |
+| git merge 分支名     | 合并分支         |
+| git branch -d 分支名 | 删除分支         |
 
 - 切换分支：是将代码拉取到了本地工作目录
 
@@ -103,3 +83,4 @@ Repository （本地历史仓库）：存放不同版本的代码
    | ------------------------------- | ---------------- |
    | git clone 远程仓库地址          | 将代码克隆到本地 |
    | git push -u 远程仓库名称 分支名 | 推送到远程仓库   |
+   |                                 |                  |
