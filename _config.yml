@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 笔记本
+title: 码字拾光
 subtitle: ''
 description: ''
 keywords:
 author: Blake
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -105,3 +105,8 @@ deploy:
   type: git
   repo: git@github.com:pg-wbl/pg-wbl.github.io.git
   branch: main
+
+# 将文章标题中的中文转成拼音的插件启用
+permalink_pinyin:
+  enable: true # 启用插件
+  separator: '-' # 分词符，将使用此符号分隔两个汉字间的拼音
