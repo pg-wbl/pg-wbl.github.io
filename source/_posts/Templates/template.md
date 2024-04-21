@@ -1,6 +1,6 @@
 ---
-title: 标题
-date: 日期
+title: 
+date: 
 author: Blake
 img: /source/images/xxx.jpg
 top: true
@@ -12,8 +12,6 @@ description: 该值主要用于 seo 优化，设置后页面 description 将显�
 categories: 
   - 语言
   - 框架
-  - 八股文
-  - 项目
   - 工具
 tags:
   - Java
