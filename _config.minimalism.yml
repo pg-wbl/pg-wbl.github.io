@@ -1,22 +1,22 @@
 menu:
   Index:
     url: /
-    External: false
+    External: false #是否弹出新窗口
     name: 首页
-  Tags:
-    url: /tags
+  tags:
+    url: "/tags/"
     External: false
     name: 标签
-#  Categories:
-#    url: /categories
-#    External: false
-#    name: 分类
-  Archives:
-    url: /archives
+  categories:
+    url: "/categories/"
+    External: false
+    name: 分类
+  active:
+    url: "/active/"
     External: false
     name: 归档
-  About:
-    url: /about
+  about:
+    url: "/about/"
     External: false
     name: 关于
 
