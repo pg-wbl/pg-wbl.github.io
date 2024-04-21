@@ -11,8 +11,12 @@
             "id": "8162d638f9bc344f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/使用Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/使用Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/使用Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/使用Git.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8162d638f9bc344f",
+  "active": "23ffe4cfa2b4a32d",
   "lastOpenFiles": [
     "Templates/template.md",
     "使用Git.md",
