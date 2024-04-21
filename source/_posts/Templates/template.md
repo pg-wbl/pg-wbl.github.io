@@ -1,6 +1,6 @@
 ---
-title: 
-date: 
+title: {{title}}
+date: {{date}}
 author: Blake
 img: /source/images/xxx.jpg
 top: true
