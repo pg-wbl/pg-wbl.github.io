@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git的使用.md",
+                "file": "使用Git.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git的使用.md",
+                "file": "使用Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git的使用.md",
+                "file": "使用Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git的使用.md"
+                "file": "使用Git.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "8162d638f9bc344f",
   "lastOpenFiles": [
     "Templates/template.md",
-    "Git的使用.md",
+    "使用Git.md",
     "Templates",
     "新建文件夹",
     "template.md",
