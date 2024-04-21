@@ -15,7 +15,7 @@
               "state": {
                 "file": "_posts/使用Git.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }

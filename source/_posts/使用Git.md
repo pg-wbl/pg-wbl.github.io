@@ -13,16 +13,13 @@ categories: 工具
 tags:
   - Git
 ---
-1. 初始化本地git仓库：git init
-2. 添加文件：git add 文件名
-3. 提交到暂存区：git commit -m '第一次提交'
-4. 推送到远程仓库：git push -u 远程仓库名 分支名
-	1. 查看远程仓库名：git remote -v
-Working tree （工作目录）：代码的存放位置
+# 本地
+- Working tree （工作目录）：代码的存放位置
 
-Index（暂存区）：代码提交到仓库之前临时的存储空间
+- Index（暂存区）：代码提交到仓库之前临时的存储空间
 
-Repository （本地历史仓库）：存放不同版本的代码
+- Repository （本地历史仓库）：存放不同版本的代码
+
 
 |    命令    |               作用               |
 | :--------: | :------------------------------: |
@@ -31,18 +28,11 @@ Repository （本地历史仓库）：存放不同版本的代码
 |  git add   |   添加，将指定文件添加到暂存区   |
 | git commit | 提交，将暂存区文件添加到历史仓库 |
 |  git log   |             查看日志             |
-
----
-
-1. 创建工作目录，并初始化为本地git仓库
-
-![image-20240127151656922](typora_images/image-20240127151656922.png)
-
-- 只是创建文件，不添加，查看git状态，会报红未添加的文件
-
-2. 添加到暂存区，提交到本地仓库和查看日志
-
-![image-20240127153857274](typora_images/image-20240127153857274.png)
+1. 初始化本地git仓库：git init
+2. 添加文件：git add 文件名
+3. 提交到暂存区：git commit -m '第一次提交'
+4. 推送到远程仓库：git push -u 远程仓库名 分支名
+	1. 查看远程仓库名：git remote -v
 
 # 分支
 
@@ -59,35 +49,33 @@ Repository （本地历史仓库）：存放不同版本的代码
 
 # 远程仓库
 
-1. 配置SSH公钥
+## SSH免密登录
+1. 本地生成ssh公钥
+- 
 
    1. 设置Git账户
 
-      | 命令                                   | 作用                   |
-      | -------------------------------------- | ---------------------- |
-      | git config user.name                   | 查看git账户            |
-      | git config user.email                  | 查看git邮箱            |
-      | git config --global user.name "账户名" | 设置全局账户名         |
-      | git config --global user.email "邮箱"  | 设置全局邮箱           |
-      | cd ~/.ss                               | 进入查看是否生成过公钥 |
+| 命令                                   | 作用                   |
+   | -------------------------------------- | ---------------------- |
+  | git config user.name                   | 查看git账户            |
+  | git config user.email                  | 查看git邮箱            |
+   | git config --global user.name "账户名" | 设置全局账户名         |
+  | git config --global user.email "邮箱"  | 设置全局邮箱           |
+  | cd ~/.ss                               | 进入查看是否生成过公钥 |
 
-      2. 生成公钥
+  2. 生成公钥
 
-         | 命令                        | 作用                         |
-         | --------------------------- | ---------------------------- |
-         | ssh-keygen -t rsa -C "邮箱" | 生成公钥，回车使用默认设置   |
-         | cat ~/.ssh/id_rsa.pub       | 查看公钥，复制到仓库设置里面 |
-         | ssh -T git@gitee.com        | 最后测试公钥                 |
+   | 命令                        | 作用                         |
+   | --------------------------- | ---------------------------- |
+   | ssh-keygen -t rsa -C "邮箱" | 生成公钥，回车使用默认设置   |
+  | cat ~/.ssh/id_rsa.pub       | 查看公钥，复制到仓库设置里面 |
+   | ssh -T git@gitee.com        | 最后测试公钥                 |
 
-         
+ 
 
-      3. 设置账户公钥
+  3. 设置账户公钥： cat ~/.ssh/id_rsa.pub  查看公钥，复制到仓库设置里面
 
-         cat ~/.ssh/id_rsa.pub  查看公钥，复制到仓库设置里面
-
-      4. 公钥测试
-
-         ssh -T git@gitee.com
+  4. 公钥测试： ssh -T git@gitee.com（github.com）
 
    2. 将代码推送到远程仓库
 
