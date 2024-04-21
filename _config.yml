@@ -128,6 +128,6 @@ feed:
 
 
   #站点地图
-  sitemap:
+sitemap:
   path: sitemap.xml
   rel: true # 是否在页面头部添加 rel="sitemap" 链接
