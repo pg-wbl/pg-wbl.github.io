@@ -125,3 +125,10 @@ feed:
   content_limit: 160
   content_limit_delim: ' '
   order_by: -date
+
+
+  #站点地图
+  sitemap:
+  path: # 可选只要一个
+    - sitemap.xml
+  rel: true # 是否在页面头部添加 rel="sitemap" 链接
