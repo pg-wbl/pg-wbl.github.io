@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "使用Git.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
