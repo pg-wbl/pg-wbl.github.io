@@ -6,7 +6,7 @@
   <link href="https://example.com/atom.xml" rel="self"/>
   
   <link href="https://example.com/"/>
-  <updated>2024-04-21T19:08:18.882Z</updated>
+  <updated>2024-04-21T19:37:54.661Z</updated>
   <id>https://example.com/</id>
   
   <author>
@@ -21,24 +21,17 @@
     <link href="https://example.com/2024/04/22/shi-yong-git/"/>
     <id>https://example.com/2024/04/22/shi-yong-git/</id>
     <published>2024-04-21T19:08:18.000Z</published>
-    <updated>2024-04-21T19:08:18.882Z</updated>
+    <updated>2024-04-21T19:37:54.661Z</updated>
+    
+    
+    <summary type="html">Git学习记录</summary>
     
     
     
+    <category term="工具" scheme="https://example.com/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title>[object Object]</title>
-    <link href="https://example.com/2024/04/22/templates/template/"/>
-    <id>https://example.com/2024/04/22/templates/template/</id>
-    <published>2024-04-21T16:49:10.543Z</published>
-    <updated>2024-04-21T19:07:53.694Z</updated>
-    
-    
-    
-    
+    <category term="Git" scheme="https://example.com/tags/Git/"/>
     
   </entry>
   
