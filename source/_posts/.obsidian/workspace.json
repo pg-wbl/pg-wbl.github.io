@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "23291e32357bfcce",
+        "id": "9a4e6e13b111348d",
         "type": "tabs",
         "children": [
           {
-            "id": "7f70bf093f2eab59",
+            "id": "8162d638f9bc344f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "23ffe4cfa2b4a32d",
+  "active": "8162d638f9bc344f",
   "lastOpenFiles": [
+    "未命名.md",
     "未命名"
   ]
 }
