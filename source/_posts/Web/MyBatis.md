@@ -8,7 +8,7 @@ hide: false
 cover: false
 toc: false
 summary: 
-description: 简化JDBC
+description: 简化JDBC操作
 categories: JavaWeb
 tags:
   - MyBatis
