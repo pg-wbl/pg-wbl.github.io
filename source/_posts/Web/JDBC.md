@@ -10,7 +10,7 @@ toc: false
 summary: 
 description: java数据库连接
 categories: 工具
-tags:JDBC
+tags: JDBC
 ---
 # 简介
 含义java数据库连接，是sum公司写的一套操作**关系型**数据库的API，一套接口

@@ -1,8 +1,6 @@
 ---
-title:
-  "{ title }": 
-date:
-  "{ date }": 
+title: MyBatis
+date: 2024年4月22日17:08:00
 author: Blake
 img: 
 top: false
@@ -10,7 +8,7 @@ hide: false
 cover: false
 toc: false
 summary: 
-description: 
+description: 简化JDBC
 categories: JavaWeb
 tags:
   - MyBatis
