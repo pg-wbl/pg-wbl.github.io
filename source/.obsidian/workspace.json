@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/使用Git.md",
+                "file": "_posts/框架/Spring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/使用Git.md",
+                "file": "_posts/框架/Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/使用Git.md",
+                "file": "_posts/框架/Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/使用Git.md"
+                "file": "_posts/框架/Spring.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "8162d638f9bc344f",
   "lastOpenFiles": [
-    "_posts/07Git.md",
     "_posts/使用Git.md",
+    "_posts/框架/Spring.md",
+    "_posts/框架.md",
+    "_posts/框架",
+    "_posts/07Git.md",
     "Templates/template.md",
     "使用Git.md",
     "Templates",
