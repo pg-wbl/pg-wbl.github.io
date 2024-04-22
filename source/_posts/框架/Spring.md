@@ -18,6 +18,7 @@ tags:
 ![image.png](https://i0.hdslb.com/bfs/article/828296a53083857257e6ff8be154f803441011616.png)
 
 # 概念
+- IoC：控制反转，不需要手动创建对象，Ioc容器实现
 - Bean：IoC容器创建管理的对象
 - DI（Dependency Injection）依赖注入：Ioc容器中bena之间的依赖建立
 
