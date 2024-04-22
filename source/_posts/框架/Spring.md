@@ -19,4 +19,7 @@ tags:
 
 # 概念
 - Bean：IoC容器创建管理的对象
-- DI（Dependency Injection）依赖注入：
+- DI（Dependency Injection）依赖注入：Ioc容器中bena之间的依赖建立
+
+- 这样做的好处是什么呢？
+	- 把有关联的部分，全都放到
