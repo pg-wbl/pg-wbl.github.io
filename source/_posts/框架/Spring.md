@@ -20,9 +20,12 @@ tags:
 # 概念
 what
 
-- IoC：控制反转，不需要手动创建对象，Ioc容器实现
+- IoC：控制反转。不需要手动创建对象，Ioc容器实现对象的建立和之间的依赖
 - Bean：IoC容器创建管理的对象
 - DI（Dependency Injection）依赖注入：Ioc容器中bena之间的依赖建立
 
+how
+
+why
 - 这样做的好处是什么呢？
 	- 把关联的部分集中起来，充分解耦合
