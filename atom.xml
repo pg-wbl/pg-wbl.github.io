@@ -6,7 +6,7 @@
   <link href="https://example.com/atom.xml" rel="self"/>
   
   <link href="https://example.com/"/>
-  <updated>2024-04-22T09:08:32.396Z</updated>
+  <updated>2024-04-22T10:19:19.613Z</updated>
   <id>https://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://example.com/2024/04/22/web/mybatis/"/>
     <id>https://example.com/2024/04/22/web/mybatis/</id>
     <published>2024-04-22T08:33:33.485Z</published>
-    <updated>2024-04-22T09:08:32.396Z</updated>
+    <updated>2024-04-22T10:19:19.613Z</updated>
     
     
     <summary type="html">简化JDBC操作</summary>
