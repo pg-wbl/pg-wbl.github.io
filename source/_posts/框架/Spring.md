@@ -3,9 +3,9 @@ title: Spring
 date: 2024-04-22 09:52:18
 author: Blake
 img: 
-top: true
+top: false
 hide: false
-cover: true
+cover: false
 toc: false
 summary: 
 description: 

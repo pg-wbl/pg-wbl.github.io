@@ -1,13 +1,15 @@
 ---
-title: {{title}}
-date: {{date}}
+title:
+  "{ title }": 
+date:
+  "{ date }": 
 author: Blake
 img: 
-top: true
+top: false
 hide: false
-cover: true
+cover: false
 toc: false
-summary:
+summary: 
 description: 
 categories: 
 tags:
