@@ -7,3 +7,5 @@
 ![image.png](https://i0.hdslb.com/bfs/article/7e705596c3e63c99c612d8366a8ee0f3441011616.png)
 - 新建数据源
 ![image.png](https://i0.hdslb.com/bfs/article/65ab43b0d1ce3e6e1646e51847b871fb441011616.png)
+- 配置
+![image.png](https://i0.hdslb.com/bfs/article/01629a1ee248cdffeb8750e33e14373a441011616.png)
