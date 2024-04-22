@@ -11,14 +11,11 @@
             "id": "8162d638f9bc344f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_posts/框架/Spring Frameworl学习路线.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "_posts/框架/Spring.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5d91d7693bac3bde",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/框架/Spring Frameworl学习路线.canvas",
+                "file": "_posts/框架/Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/框架/Spring Frameworl学习路线.canvas",
+                "file": "_posts/框架/Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/框架/Spring Frameworl学习路线.canvas"
+                "file": "_posts/框架/Spring.md"
               }
             }
           }
@@ -152,8 +150,8 @@
   },
   "active": "8162d638f9bc344f",
   "lastOpenFiles": [
-    "_posts/框架/Spring.md",
     "_posts/框架/Spring Frameworl学习路线.canvas",
+    "_posts/框架/Spring.md",
     "_posts/Web/MyBatis.md",
     "archives/index.md",
     "archives",
