@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/Web/MyBatis.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }

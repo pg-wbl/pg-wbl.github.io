@@ -25,6 +25,6 @@ tags:
 - 配置
 ![image.png](https://i0.hdslb.com/bfs/article/01629a1ee248cdffeb8750e33e14373a441011616.png)
 - 直接对数据库进行查询操作
-![image.png](https://i0.hdslb.com/bfs/article/7fbdef4126b9085e4ede65e4adbd650a441011616.png)
+![image.png](https://i0.hdslb.com/bfs/article/7fbdef4126b9085e4ede65e4adbd650a441011616.png referrerPolicy="no-referrer")
 
 # Mapper代理开发
