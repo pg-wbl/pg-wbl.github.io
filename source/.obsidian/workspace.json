@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Web/JDBC.md",
+                "file": "_posts/Web/MyBatis.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5d91d7693bac3bde",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Web/JDBC.md",
+                "file": "_posts/Web/MyBatis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Web/JDBC.md",
+                "file": "_posts/Web/MyBatis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Web/JDBC.md"
+                "file": "_posts/Web/MyBatis.md"
               }
             }
           }
@@ -147,11 +148,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "23ffe4cfa2b4a32d",
+  "active": "8162d638f9bc344f",
   "lastOpenFiles": [
+    "_posts/Web/JDBC.md",
+    "_posts/Web/MyBatis.md",
     "_posts/开发工具",
     "_posts/框架/Spring.md",
-    "_posts/Web/JDBC.md",
     "_posts/Web",
     "_posts/未命名.md",
     "Templates/template.md",
