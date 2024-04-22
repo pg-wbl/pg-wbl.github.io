@@ -1,8 +1,6 @@
 ---
-title:
-  "{ title }": 
-date:
-  "{ date }": 
+title: JDBC
+date: 2024年4月22日17:07:17 
 author: Blake
 img: 
 top: false
@@ -10,9 +8,9 @@ hide: false
 cover: false
 toc: false
 summary: 
-description: 
-categories: 
-tags:
+description: java数据库连接
+categories: 工具
+tags:JDBC
 ---
 # 简介
 含义java数据库连接，是sum公司写的一套操作**关系型**数据库的API，一套接口
