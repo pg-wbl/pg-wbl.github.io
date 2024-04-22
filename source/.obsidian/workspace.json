@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5d91d7693bac3bde",
@@ -130,11 +129,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,14 +147,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8162d638f9bc344f",
+  "active": "23ffe4cfa2b4a32d",
   "lastOpenFiles": [
+    "_posts/开发工具",
     "_posts/框架/Spring.md",
     "_posts/Web/JDBC.md",
     "_posts/Web",
     "_posts/未命名.md",
     "Templates/template.md",
-    "_posts/使用Git.md",
+    "_posts/开发工具/使用Git.md",
     "_posts/框架.md",
     "_posts/框架",
     "_posts/07Git.md",
