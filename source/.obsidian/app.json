@@ -4,5 +4,6 @@
     "themes/",
     "scaffolds/",
     "public/"
-  ]
+  ],
+  "readableLineLength": false
 }
