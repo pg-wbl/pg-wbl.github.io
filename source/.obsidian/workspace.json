@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Web/MyBatis.md",
+                "file": "Templates/template.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5d91d7693bac3bde",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Web/MyBatis.md",
+                "file": "Templates/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Web/MyBatis.md",
+                "file": "Templates/template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Web/MyBatis.md"
+                "file": "Templates/template.md"
               }
             }
           }
@@ -150,8 +149,8 @@
   },
   "active": "8162d638f9bc344f",
   "lastOpenFiles": [
-    "_posts/Web/JDBC.md",
     "_posts/Web/MyBatis.md",
+    "_posts/Web/JDBC.md",
     "_posts/开发工具",
     "_posts/框架/Spring.md",
     "_posts/Web",

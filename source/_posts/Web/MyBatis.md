@@ -1,3 +1,20 @@
+---
+title:
+  "{ title }": 
+date:
+  "{ date }": 
+author: Blake
+img: 
+top: false
+hide: false
+cover: false
+toc: false
+summary: 
+description: 
+categories: JavaWeb
+tags:
+  - MyBatis
+---
 # 简介
 
 ## 04解决sql语句警告提示
