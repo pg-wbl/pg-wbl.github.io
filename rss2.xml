@@ -9,13 +9,70 @@
     <atom:link href="https://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sun, 21 Apr 2024 19:37:54 GMT</pubDate>
+    <pubDate>Mon, 22 Apr 2024 09:08:32 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
+      <title>MyBatis</title>
+      <link>https://example.com/2024/04/22/web/mybatis/</link>
+      <guid>https://example.com/2024/04/22/web/mybatis/</guid>
+      <pubDate>Mon, 22 Apr 2024 08:33:33 GMT</pubDate>
+      
+      <description>简化JDBC操作</description>
+      
+      
+      
+      
+      <category domain="https://example.com/categories/JavaWeb/">JavaWeb</category>
+      
+      
+      <category domain="https://example.com/tags/MyBatis/">MyBatis</category>
+      
+      
+      <comments>https://example.com/2024/04/22/web/mybatis/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>JDBC</title>
+      <link>https://example.com/2024/04/22/web/jdbc/</link>
+      <guid>https://example.com/2024/04/22/web/jdbc/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:54:56 GMT</pubDate>
+      
+      <description>java数据库连接</description>
+      
+      
+      
+      
+      <category domain="https://example.com/categories/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      
+      <category domain="https://example.com/tags/JDBC/">JDBC</category>
+      
+      
+      <comments>https://example.com/2024/04/22/web/jdbc/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>https://example.com/2024/04/22/kuang-jia/spring/</link>
+      <guid>https://example.com/2024/04/22/kuang-jia/spring/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:52:18 GMT</pubDate>
+      
+      
+      
+      
+      
+      
+      <comments>https://example.com/2024/04/22/kuang-jia/spring/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>使用Git</title>
-      <link>https://example.com/2024/04/22/shi-yong-git/</link>
-      <guid>https://example.com/2024/04/22/shi-yong-git/</guid>
+      <link>https://example.com/2024/04/22/kai-fa-gong-ju/shi-yong-git/</link>
+      <guid>https://example.com/2024/04/22/kai-fa-gong-ju/shi-yong-git/</guid>
       <pubDate>Sun, 21 Apr 2024 19:08:18 GMT</pubDate>
       
       <description>Git学习记录</description>
@@ -29,7 +86,7 @@
       <category domain="https://example.com/tags/Git/">Git</category>
       
       
-      <comments>https://example.com/2024/04/22/shi-yong-git/#disqus_thread</comments>
+      <comments>https://example.com/2024/04/22/kai-fa-gong-ju/shi-yong-git/#disqus_thread</comments>
       
     </item>
     

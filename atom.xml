@@ -6,7 +6,7 @@
   <link href="https://example.com/atom.xml" rel="self"/>
   
   <link href="https://example.com/"/>
-  <updated>2024-04-21T19:37:54.661Z</updated>
+  <updated>2024-04-22T09:08:32.396Z</updated>
   <id>https://example.com/</id>
   
   <author>
@@ -17,9 +17,60 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>MyBatis</title>
+    <link href="https://example.com/2024/04/22/web/mybatis/"/>
+    <id>https://example.com/2024/04/22/web/mybatis/</id>
+    <published>2024-04-22T08:33:33.485Z</published>
+    <updated>2024-04-22T09:08:32.396Z</updated>
+    
+    
+    <summary type="html">简化JDBC操作</summary>
+    
+    
+    
+    <category term="JavaWeb" scheme="https://example.com/categories/JavaWeb/"/>
+    
+    
+    <category term="MyBatis" scheme="https://example.com/tags/MyBatis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDBC</title>
+    <link href="https://example.com/2024/04/22/web/jdbc/"/>
+    <id>https://example.com/2024/04/22/web/jdbc/</id>
+    <published>2024-04-22T01:54:56.741Z</published>
+    <updated>2024-04-22T09:07:34.568Z</updated>
+    
+    
+    <summary type="html">java数据库连接</summary>
+    
+    
+    
+    <category term="工具" scheme="https://example.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="JDBC" scheme="https://example.com/tags/JDBC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring</title>
+    <link href="https://example.com/2024/04/22/kuang-jia/spring/"/>
+    <id>https://example.com/2024/04/22/kuang-jia/spring/</id>
+    <published>2024-04-22T01:52:18.000Z</published>
+    <updated>2024-04-22T01:52:56.390Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>使用Git</title>
-    <link href="https://example.com/2024/04/22/shi-yong-git/"/>
-    <id>https://example.com/2024/04/22/shi-yong-git/</id>
+    <link href="https://example.com/2024/04/22/kai-fa-gong-ju/shi-yong-git/"/>
+    <id>https://example.com/2024/04/22/kai-fa-gong-ju/shi-yong-git/</id>
     <published>2024-04-21T19:08:18.000Z</published>
     <updated>2024-04-21T19:37:54.661Z</updated>
     
