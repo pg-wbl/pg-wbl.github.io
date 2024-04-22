@@ -1,3 +1,19 @@
+---
+title:
+  "{ title }": 
+date:
+  "{ date }": 
+author: Blake
+img: 
+top: false
+hide: false
+cover: false
+toc: false
+summary: 
+description: 
+categories: 
+tags:
+---
 # 简介
 含义java数据库连接，是sum公司写的一套操作**关系型**数据库的API，一套接口
 各个数据库厂商自己实现接口，提供数据库驱动jar包

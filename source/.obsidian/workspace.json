@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/template.md",
-                "mode": "preview",
+                "file": "_posts/Web/JDBC.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/template.md",
+                "file": "_posts/Web/JDBC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/template.md",
+                "file": "_posts/Web/JDBC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/template.md"
+                "file": "_posts/Web/JDBC.md"
               }
             }
           }
@@ -151,11 +151,11 @@
   "lastOpenFiles": [
     "_posts/Web/MyBatis.md",
     "_posts/Web/JDBC.md",
+    "Templates/template.md",
     "_posts/开发工具",
     "_posts/框架/Spring.md",
     "_posts/Web",
     "_posts/未命名.md",
-    "Templates/template.md",
     "_posts/开发工具/使用Git.md",
     "_posts/框架.md",
     "_posts/框架",
