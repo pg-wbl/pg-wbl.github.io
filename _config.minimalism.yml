@@ -11,8 +11,8 @@ menu:
     url: "/categories/"
     External: false
     name: 分类
-  active:
-    url: "/active/"
+  archives:
+    url: "/archives/"
     External: false
     name: 归档
   about:
