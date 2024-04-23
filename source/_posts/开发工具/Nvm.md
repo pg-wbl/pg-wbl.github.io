@@ -31,4 +31,4 @@ Windows：GitHub上安装指定版本
 
 - 使用nvm安装node
 	- 默认镜像源会很慢
-	- 在安装目录下的
+	- 在安装目录下的settings文档更换安装源
