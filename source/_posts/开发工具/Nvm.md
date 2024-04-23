@@ -34,3 +34,8 @@ Windows：GitHub上安装指定版本
 	- 在安装目录下的settings文档更换安装源
 - [使用nvm安装node出现问题，找不到nvm命令]([整理一下nvm的安装以及安装后node生效且npm不生效的问题_nvm 安装之后 npm 不是有效-CSDN博客](https://blog.csdn.net/tuzi007a/article/details/123722455))
 - 项目位置：C:\Windows\System32\package_2127f1__c
+
+```
+aue component create
+
+```
