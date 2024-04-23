@@ -36,7 +36,7 @@ Windows：GitHub上安装指定版本
 - 项目位置：C:\Windows\System32\package_2127f1__c
 
 ```
-aue component create
+ae component create
 组件名：wbl001
 包管理器：yarn
 
