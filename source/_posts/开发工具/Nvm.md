@@ -37,5 +37,6 @@ Windows：GitHub上安装指定版本
 
 ```
 aue component create
-
+组件名：wbl001
+包管理器：yarn
 ```
