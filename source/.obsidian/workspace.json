@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/开发工具/Nvm.md",
+                "file": "_posts/开发工具/飞书低代码开发.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/开发工具/Nvm.md",
+                "file": "_posts/开发工具/飞书低代码开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/开发工具/Nvm.md",
+                "file": "_posts/开发工具/飞书低代码开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/开发工具/Nvm.md"
+                "file": "_posts/开发工具/飞书低代码开发.md"
               }
             }
           }
@@ -151,7 +151,7 @@
   "active": "8162d638f9bc344f",
   "lastOpenFiles": [
     "_posts/开发工具/Maven.md",
-    "_posts/开发工具/Nvm.md",
+    "_posts/开发工具/飞书低代码开发.md",
     "_posts/框架/Spring.md",
     "_posts/框架/Spring Frameworl学习路线.canvas",
     "_posts/Web/MyBatis.md",
